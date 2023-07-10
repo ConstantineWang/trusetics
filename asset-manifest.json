@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.709ad3c7.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Group 313.svg": "/static/media/Group 313.8a45d411a55544b360f2eb8e951fa9b6.svg",
+    "static/media/Trusetics-d.png": "/static/media/Trusetics-d.2651a7f4e2745063bc49.png",
+    "static/media/Logo.png": "/static/media/Logo.45452db728bbf50ddc37.png",
+    "index.html": "/index.html",
+    "static/media/upload-icon.svg": "/static/media/upload-icon.a0c5b9811917819c502db247ff2cd41c.svg",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.709ad3c7.js.map": "/static/js/main.709ad3c7.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.709ad3c7.js"
+  ]
+}
